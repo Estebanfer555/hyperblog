@@ -1,1 +1,1 @@
-Esta es la v2 de prueba de repositorio con git
+Esta es la nueva v3 de prueba de repositorio con git creada luego de reseatear la version anterior
