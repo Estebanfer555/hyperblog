@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 Esta es la nueva v3 de prueba de repositorio con git creada luego de reseatear la version anterior
+=======
+Esta es la v3 de prueba de repositorio con git
+
+cambiaron varios textos desde el reset
+>>>>>>> cabecera
